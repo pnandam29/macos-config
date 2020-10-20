@@ -1,5 +1,6 @@
 # macos-config
-#Install
+# Install
+
 The easiest way to install is to follow the following steps:
 
 Make sure you have signed into the Mac App Store. This makes mas easier to deal with
