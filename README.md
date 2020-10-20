@@ -7,7 +7,7 @@ Make sure you have signed into the Mac App Store. This makes mas easier to deal 
 1. Install Apples's command line tools: xcode-select --install
 2. Install Pip: sudo easy_install pip
 3. Install Ansible: sudo pip install ansible
-4. Clone the Repository: git clone https://github.com/AustinCloudGuru/macos-config
+4. Clone the Repository: git clone https://github.com/pnandam29/macos-config
 5. Change Directories into the repo: cd mac-playbook
 6. Update the requirements file: ansible-galaxy install -r requirements.yml
 7. Run the osascript command to account for sandboxing osascript -e 'tell application "Finder"' -e 'set _b to bounds of window of desktop' -e 'end tell'
