@@ -18,7 +18,7 @@ Commands:
  xcode-select --install
  sudo easy_install pip
  sudo pip install ansible
- git clone https://github.com/AustinCloudGuru/macos-config
+ git clone https://github.com/pnandam29/macos-config
  cd macos-config
  ansible-galaxy install -r requirements.yml
  osascript -e 'tell application "Finder"' -e 'set _b to bounds of window of desktop' -e 'end tell'
